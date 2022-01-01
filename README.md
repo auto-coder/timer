@@ -1,2 +1,2 @@
 # timer
-![](screenshot.png)
+![](screenshot.PNG)
